@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMW Service</string>
+    <string name="settings_activity_title">BMW Service Settings</string>
+    <string name="serial_port_prompt">Select serial port</string>
+    <string name="refreshing">Refreshing...</string>
+    <string name="refresh">Refresh</string>
+    <string name="serial_port">Serial port:</string>
+    <string name="shutdown_now_fmt">SHUTDOWN NOW… (%s)</string>
+    <string name="shutdown_now">SHUTDOWN NOW</string>
+    <string name="wait_for_me">WAIT FOR ME!</string>
+    <string name="shutdown_dialog_title">Shutdown requested</string>
+    <string name="delay_shutdown_initiated">Display will be turned off shortly, Android will wait for you for 30 minutes</string>
+    <string name="send_to_car">Send to Car</string>
+    <string name="lock_door">Lock door</string>
+    <string name="open_window">Open window</string>
+</resources>
